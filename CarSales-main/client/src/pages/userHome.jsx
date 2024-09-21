@@ -88,7 +88,7 @@ const UserHome = () => {
       </div>
 
       <div className='text-4xl font-semibold md:mt-24 mx-16'>
-        Trending Searches
+        Waste Searches
       </div>
       <div className='grid md:grid-cols-4 mx-10 mt-8 px-10 justify-items-center mb-20'>
         {data.map((item, index) => (
